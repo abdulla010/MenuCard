@@ -1,0 +1,20 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Schema Namespace="zmtdbModel.Store" Provider="System.Data.SqlClient" ProviderManifestToken="2012" Alias="Self" xmlns:store="http://schemas.microsoft.com/ado/2007/12/edm/EntityStoreSchemaGenerator" xmlns:customannotation="http://schemas.microsoft.com/ado/2013/11/edm/customannotation" xmlns="http://schemas.microsoft.com/ado/2009/11/edm/ssdl">
+  <EntityType Name="foodData">
+    <Key>
+      <PropertyRef Name="id" />
+    </Key>
+    <Property Name="id" Type="int" StoreGeneratedPattern="Identity" Nullable="false" />
+    <Property Name="rname" Type="nvarchar" MaxLength="200" />
+    <Property Name="imgdata" Type="nvarchar" MaxLength="500" />
+    <Property Name="address" Type="nvarchar(max)" />
+    <Property Name="delimg" Type="nvarchar" MaxLength="250" />
+    <Property Name="somedata" Type="nvarchar" MaxLength="250" />
+    <Property Name="price" Type="float" />
+    <Property Name="rating" Type="float" />
+    <Property Name="arrimg" Type="nvarchar" MaxLength="500" />
+  </EntityType>
+  <EntityContainer Name="zmtdbModelStoreContainer">
+    <EntitySet Name="foodData" EntityType="Self.foodData" Schema="dbo" store:Type="Tables" />
+  </EntityContainer>
+</Schema>

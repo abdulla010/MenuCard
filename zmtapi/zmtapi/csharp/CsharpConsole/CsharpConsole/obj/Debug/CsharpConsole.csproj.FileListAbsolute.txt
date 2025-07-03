@@ -1,0 +1,11 @@
+D:\React\zmtapi\zmtapi\csharp\CsharpConsole\CsharpConsole\bin\Debug\CsharpConsole.exe.config
+D:\React\zmtapi\zmtapi\csharp\CsharpConsole\CsharpConsole\bin\Debug\CsharpConsole.exe
+D:\React\zmtapi\zmtapi\csharp\CsharpConsole\CsharpConsole\bin\Debug\CsharpConsole.pdb
+D:\React\zmtapi\zmtapi\csharp\CsharpConsole\CsharpConsole\bin\Debug\Dapper.dll
+D:\React\zmtapi\zmtapi\csharp\CsharpConsole\CsharpConsole\bin\Debug\Dapper.xml
+D:\React\zmtapi\zmtapi\csharp\CsharpConsole\CsharpConsole\obj\Debug\CsharpConsole.csproj.AssemblyReference.cache
+D:\React\zmtapi\zmtapi\csharp\CsharpConsole\CsharpConsole\obj\Debug\CsharpConsole.csproj.SuggestedBindingRedirects.cache
+D:\React\zmtapi\zmtapi\csharp\CsharpConsole\CsharpConsole\obj\Debug\CsharpConsole.csproj.CoreCompileInputs.cache
+D:\React\zmtapi\zmtapi\csharp\CsharpConsole\CsharpConsole\obj\Debug\CsharpConsole.csproj.CopyComplete
+D:\React\zmtapi\zmtapi\csharp\CsharpConsole\CsharpConsole\obj\Debug\CsharpConsole.exe
+D:\React\zmtapi\zmtapi\csharp\CsharpConsole\CsharpConsole\obj\Debug\CsharpConsole.pdb

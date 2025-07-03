@@ -1,0 +1,17 @@
+.contact {
+    height: 100vh;
+    width: 500px;
+    margin: auto;
+    margin-top: 20px;
+}
+
+form {
+    background-color: white;
+    padding: 0px, 60px;
+    border-radius: 10px;
+}
+
+input {
+    padding: 8px;
+    margin: 5px 0px;
+}

@@ -1,0 +1,8 @@
+D:\React\zmtapi\zmtapi\csharp\programs1\programs1\bin\Debug\programs1.exe.config
+D:\React\zmtapi\zmtapi\csharp\programs1\programs1\bin\Debug\programs1.exe
+D:\React\zmtapi\zmtapi\csharp\programs1\programs1\bin\Debug\programs1.pdb
+D:\React\zmtapi\zmtapi\csharp\programs1\programs1\obj\Debug\programs1.csproj.AssemblyReference.cache
+D:\React\zmtapi\zmtapi\csharp\programs1\programs1\obj\Debug\programs1.csproj.SuggestedBindingRedirects.cache
+D:\React\zmtapi\zmtapi\csharp\programs1\programs1\obj\Debug\programs1.csproj.CoreCompileInputs.cache
+D:\React\zmtapi\zmtapi\csharp\programs1\programs1\obj\Debug\programs1.exe
+D:\React\zmtapi\zmtapi\csharp\programs1\programs1\obj\Debug\programs1.pdb

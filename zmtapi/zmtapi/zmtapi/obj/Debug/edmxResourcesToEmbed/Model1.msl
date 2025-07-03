@@ -1,0 +1,20 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Mapping Space="C-S" xmlns="http://schemas.microsoft.com/ado/2009/11/mapping/cs">
+  <EntityContainerMapping StorageEntityContainer="zmtdbModelStoreContainer" CdmEntityContainer="zmtdbEntities">
+    <EntitySetMapping Name="foodData">
+      <EntityTypeMapping TypeName="zmtdbModel.foodData">
+        <MappingFragment StoreEntitySet="foodData">
+          <ScalarProperty Name="id" ColumnName="id" />
+          <ScalarProperty Name="rname" ColumnName="rname" />
+          <ScalarProperty Name="imgdata" ColumnName="imgdata" />
+          <ScalarProperty Name="address" ColumnName="address" />
+          <ScalarProperty Name="delimg" ColumnName="delimg" />
+          <ScalarProperty Name="somedata" ColumnName="somedata" />
+          <ScalarProperty Name="price" ColumnName="price" />
+          <ScalarProperty Name="rating" ColumnName="rating" />
+          <ScalarProperty Name="arrimg" ColumnName="arrimg" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+  </EntityContainerMapping>
+</Mapping>

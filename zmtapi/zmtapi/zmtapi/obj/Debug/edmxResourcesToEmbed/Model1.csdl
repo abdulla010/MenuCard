@@ -1,0 +1,20 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Schema Namespace="zmtdbModel" Alias="Self" annotation:UseStrongSpatialTypes="false" xmlns:annotation="http://schemas.microsoft.com/ado/2009/02/edm/annotation" xmlns:customannotation="http://schemas.microsoft.com/ado/2013/11/edm/customannotation" xmlns="http://schemas.microsoft.com/ado/2009/11/edm">
+  <EntityType Name="foodData">
+    <Key>
+      <PropertyRef Name="id" />
+    </Key>
+    <Property Name="id" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+    <Property Name="rname" Type="String" MaxLength="200" FixedLength="false" Unicode="true" />
+    <Property Name="imgdata" Type="String" MaxLength="500" FixedLength="false" Unicode="true" />
+    <Property Name="address" Type="String" MaxLength="Max" FixedLength="false" Unicode="true" />
+    <Property Name="delimg" Type="String" MaxLength="250" FixedLength="false" Unicode="true" />
+    <Property Name="somedata" Type="String" MaxLength="250" FixedLength="false" Unicode="true" />
+    <Property Name="price" Type="Double" />
+    <Property Name="rating" Type="Double" />
+    <Property Name="arrimg" Type="String" MaxLength="500" FixedLength="false" Unicode="true" />
+  </EntityType>
+  <EntityContainer Name="zmtdbEntities" annotation:LazyLoadingEnabled="true">
+    <EntitySet Name="foodData" EntityType="Self.foodData" />
+  </EntityContainer>
+</Schema>

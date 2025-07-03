@@ -1,0 +1,11 @@
+D:\React\zmtapi\zmtapi\csharp\AmDb\AmDb\bin\Debug\AmDb.exe.config
+D:\React\zmtapi\zmtapi\csharp\AmDb\AmDb\bin\Debug\AmDb.exe
+D:\React\zmtapi\zmtapi\csharp\AmDb\AmDb\bin\Debug\AmDb.pdb
+D:\React\zmtapi\zmtapi\csharp\AmDb\AmDb\obj\Debug\AmDb.csproj.AssemblyReference.cache
+D:\React\zmtapi\zmtapi\csharp\AmDb\AmDb\obj\Debug\AmDb.csproj.SuggestedBindingRedirects.cache
+D:\React\zmtapi\zmtapi\csharp\AmDb\AmDb\obj\Debug\AmDb.Properties.Resources.resources
+D:\React\zmtapi\zmtapi\csharp\AmDb\AmDb\obj\Debug\AmDb.csproj.GenerateResource.cache
+D:\React\zmtapi\zmtapi\csharp\AmDb\AmDb\obj\Debug\AmDb.csproj.CoreCompileInputs.cache
+D:\React\zmtapi\zmtapi\csharp\AmDb\AmDb\obj\Debug\AmDb.exe
+D:\React\zmtapi\zmtapi\csharp\AmDb\AmDb\obj\Debug\AmDb.pdb
+D:\React\zmtapi\zmtapi\csharp\AmDb\AmDb\obj\Debug\AmDb.Form1.resources

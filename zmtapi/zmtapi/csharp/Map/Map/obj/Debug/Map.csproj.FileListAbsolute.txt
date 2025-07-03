@@ -1,0 +1,11 @@
+D:\React\zmtapi\zmtapi\csharp\Map\Map\bin\Debug\Map.exe.config
+D:\React\zmtapi\zmtapi\csharp\Map\Map\bin\Debug\Map.exe
+D:\React\zmtapi\zmtapi\csharp\Map\Map\bin\Debug\Map.pdb
+D:\React\zmtapi\zmtapi\csharp\Map\Map\obj\Debug\Map.csproj.AssemblyReference.cache
+D:\React\zmtapi\zmtapi\csharp\Map\Map\obj\Debug\Map.csproj.SuggestedBindingRedirects.cache
+D:\React\zmtapi\zmtapi\csharp\Map\Map\obj\Debug\Map.Form1.resources
+D:\React\zmtapi\zmtapi\csharp\Map\Map\obj\Debug\Map.Properties.Resources.resources
+D:\React\zmtapi\zmtapi\csharp\Map\Map\obj\Debug\Map.csproj.GenerateResource.cache
+D:\React\zmtapi\zmtapi\csharp\Map\Map\obj\Debug\Map.csproj.CoreCompileInputs.cache
+D:\React\zmtapi\zmtapi\csharp\Map\Map\obj\Debug\Map.exe
+D:\React\zmtapi\zmtapi\csharp\Map\Map\obj\Debug\Map.pdb
